@@ -13,7 +13,7 @@ Hi, I am Yining Mao (茅一宁), a senior undergraduate student at [Zhejiang Uni
 
 Recently, I have finished our work on *Learning Graph Neural Networks on Image Style Transfer* (submitted to ECCV'2022), collaborating with Yongcheng Jing, advised by Prof.Xinchao Wang at National University of Singapore. I am also fortunate to have done some research at the [ZJU VIPA](https://www.vipazoo.cn/) research group, under the supervision of Prof. Mingli Song. Moreover, I was a full-time research intern at [Zhejiang Lab](https://en.zhejianglab.com/) for six months.
 
-
+----
 
 **News & Updates**
 
