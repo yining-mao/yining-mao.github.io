@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Yining!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). test.
+Hi, I am Yining Mao, a senior undergraduate student at [Zhejiang University](https://www.zju.edu.cn/english/) in the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.psp), majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). My research interests currently lie in Artificial Intelligence and Computer Vision, but I am still trying and exploring new academic interests and career paths :)
+
+Recently, I have finished our work on *Learning Graph Neural Networks on Image Style Transfer* (submitted to ECCV'2022), collaborating with Yongcheng Jing, advised by Prof.Xinchao Wang at National University of Singapore. I am also fortunate to have done some research at the [ZJU VIPA](https://www.vipazoo.cn/) research group, under the supervision of Prof. Mingli Song. Moreover, I was a full-time research intern at [Zhejiang Lab](https://en.zhejianglab.com/) for six months.
+
+**Recent News**
+
+- I have accepted the **MSEE@Stanford** offer! I am going to Stanford!
+
+
 
 A data-driven personal website
 ======
