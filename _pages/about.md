@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yining-mao.github.io)
 
 Hi, I am Yining Mao (茅一宁), a senior undergraduate student at [Zhejiang University](https://www.zju.edu.cn/english/) in the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.psp), majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). My research interests currently lie in Artificial Intelligence and Computer Vision, but I am still trying and exploring new academic interests and career paths :)
 
