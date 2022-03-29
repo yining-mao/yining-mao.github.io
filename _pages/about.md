@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yining-mao.github.io)
 
-Hi, I am Yining Mao (茅一宁), a senior undergraduate student at [Zhejiang University](https://www.zju.edu.cn/english/) in the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.psp), majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). My research interests currently lie in Artificial Intelligence and Computer Vision. I am still trying new possibilities and exploring new academic interests :)
+Hi, I am Yining Mao (茅一宁), a senior undergraduate student at [Zhejiang University](https://www.zju.edu.cn/english/) in the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.psp), majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). My research interests currently lie in Artificial Intelligence and Computer Vision, and I am still trying new possibilities and exploring new academic interests :)
 
 Recently, I have finished our work on *Learning Graph Neural Networks on Image Style Transfer* (submitted to ECCV'2022), collaborating with Yongcheng Jing, advised by Prof. Xinchao Wang at National University of Singapore. I am also fortunate to have done some research at the [ZJU VIPA](https://www.vipazoo.cn/) research group, under the supervision of Prof. Mingli Song. Moreover, I was a full-time research intern at [Zhejiang Lab](https://en.zhejianglab.com/) for six months.
 
