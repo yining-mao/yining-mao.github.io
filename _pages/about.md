@@ -17,7 +17,7 @@ Recently, I have finished our work on *Learning Graph Neural Networks on Image S
 
 **News & Updates**
 
-- 03/2022 🎓 I have accepted the **MSEE@Stanford** offer! I am going to Stanford!
+03/2022 🎓 I have accepted the **MSEE@Stanford** offer! I am going to Stanford!
 
-- 01/2022 🏋️‍♂️ My first standard pull-up ever! I love resistance training💪.
+01/2022 🏋️‍♂️ My first standard pull-up ever! I love resistance training💪.
 
