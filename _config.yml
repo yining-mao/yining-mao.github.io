@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yining Mao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yining"
 description              : &description "personal description"
 url                      : https://yining-mao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yining Mao"
-  avatar           : "profile2.JPG"
+  avatar           : "profile3.JPG"
   bio              : "ZJU CKC&CS Undergraduate student (Class of 2022)"
   location         : "China"
   employer         :
