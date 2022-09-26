@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my latest [📝CV/Resume](/files/YiningMao-CV.pdf) updated on 03/30/2022.
+You can download my latest [📝CV/Resume](/files/YiningMao-CV-0926.pdf) updated on 09/26/2022.
