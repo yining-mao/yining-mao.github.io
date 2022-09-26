@@ -19,6 +19,8 @@ You can check out my latest [**📝CV/Resume**](/files/YiningMao-CV.pdf) for mor
 
 **News & Updates**
 
-* 03/2022 🎓 I have accepted the **MSEE@Stanford🏫** offer! I am going to Stanford!
-* 01/2022 🏋️‍♂️ My first standard pull-up ever! I love resistance training XD
+* 09/2022 🌲 Arrived @ Stanford and began my journey as a master student here.
+* 06/2022 🎓 Graduated and received a B.E. from ZJU!
+* 05/2022 🏋️‍ Won ZJU Powerlifting Competition and Bodybuilding Competition (both as Champion)!
+* 01/2022 💪 My first standard pull-up ever.
 
