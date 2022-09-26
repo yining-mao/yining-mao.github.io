@@ -13,7 +13,7 @@ Hi, I am **Yining Mao (茅一宁)**, a 1st-year master student at [Stanford Univ
 
 Previously, I did my summer research intern on [*Style Transfer with GNNs*](https://arxiv.org/pdf/2207.11681) (*ECCV*'2022), collaborating with Ph.D. candidate Yongcheng Jing, advised by *Prof. Xinchao Wang* at National University of Singapore (NUS). During my undergraduate study, I am fortunate to have done some research at the [**ZJU-VIPA**](https://www.vipazoo.cn/) research group on knowledge distillation [(SDB)](https://arxiv.org/pdf/2112.03695.pdf),  Transformers, GANs, few-shot learning, etc., under the supervision of *Prof. Mingli Song*. Moreover, I was a full-time research intern at [Zhejiang Lab](https://en.zhejianglab.com/) for six months.
 
-You can check out my latest [**📝CV/Resume**](/files/YiningMao-CV.pdf) for more information. Details of my research and publications will be updated soon!
+You can check out my latest [**📝CV/Resume**](/files/YiningMao-CV-0926.pdf) for more information. Details of my research and publications will be updated soon!
 
 ----
 
