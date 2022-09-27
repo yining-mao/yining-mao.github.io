@@ -20,7 +20,7 @@ You can check out my latest [**📝CV/Resume**](/files/YiningMao-CV-0926.pdf) fo
 **News & Updates**
 
 * 09/2022 🌲 Arrived @ Stanford and began my journey as a master student here.
-* 06/2022 🎓 Graduated and received a B.E. from ZJU!
-* 05/2022 🏋️‍ Won ZJU Powerlifting Competition and Bodybuilding Competition (both as Champion)!
+* 06/2022 🎓 Graduated and received a B.E. from ZJU.
+* 05/2022 🏆 Won 2 championships in both ZJU Powerlifting and Bodybuilding Competition! Started training in powerlifting ways.
 * 01/2022 💪 My first standard pull-up ever.
 
